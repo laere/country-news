@@ -7,9 +7,9 @@ var Header = React.createClass({
 
         return (
 
-            <div>
-                <h1 className="header">Header!</h1>
-                <span className="slogan">slogan here</span>
+            <div className="header">
+                <h1>Country News</h1>
+                {/*<span className="slogan">catch us <strong>every week</strong></span>*/}
                 <Social className="social" />
                 {this.props.children}
             </div>

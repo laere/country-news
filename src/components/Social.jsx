@@ -9,7 +9,6 @@ var Social = React.createClass({
             <div>
               <img className="social-icon" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/4-128.png" alt="Twitter" />
               <img className="social-icon" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/3-128.png" alt="Facebook" />
-              <img className="social-icon" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-128.png" alt="Github" />
               <img className="social-icon" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/9-128.png" alt="LinkedIn" />
               <img className="social-icon" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/5-128.png" alt="Instagram" />
             </div>
