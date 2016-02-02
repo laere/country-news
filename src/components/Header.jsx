@@ -11,6 +11,7 @@ var Header = React.createClass({
                 <h1 className="header">Header!</h1>
                 <span className="slogan">slogan here</span>
                 <Social className="social" />
+                {this.props.children}
             </div>
         );
     }
